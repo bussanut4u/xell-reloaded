@@ -15,4 +15,4 @@ static char* asciiart = "\n"
 "             ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;               \n"
 "                       ;;;;;;;;;;;;;;;                     \n\n";
 static char* asciitail =
-	"              ROAN'S XeLL RELOADED - Xenon Linux Loader\n\n";
+	"              PORKCHOPS XeLL RELOADED - Master chief, you mind telling me what you're doing in xell?\n\n";
